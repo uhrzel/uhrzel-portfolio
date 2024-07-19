@@ -8,7 +8,7 @@ export const personalData = {
   phone: '+639090937257',
   address: 'Polomolok South Cotabato',
   github: 'https://github.com/uhrzel',
-  facebook: 'https://www.facebook.com/UghzelJohn/',
+  facebook: 'https://www.facebook.com/uhrzeljohn/',
   linkedIn: 'https://www.linkedin.com/in/arzeljrz/',
   twitter: 'https://twitter.com/cipher',
   stackOverflow: 'https://stackoverflow.com/users/16369896/arzel-john-zolina',

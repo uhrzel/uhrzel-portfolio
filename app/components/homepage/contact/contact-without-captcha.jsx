@@ -103,6 +103,7 @@ function ContactWithoutCaptcha() {
               maxLength="500"
               name="message"
               required={true}
+              label="Please include again your email here: "
               onChange={(e) => setInput({ ...input, message: e.target.value })}
               onBlur={checkRequired}
               rows="4"
